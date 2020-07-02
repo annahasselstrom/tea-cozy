@@ -1,0 +1,1 @@
+A code challenge from Codecademy where the objective is to recreat a websit form a designspec and make it responsive.
